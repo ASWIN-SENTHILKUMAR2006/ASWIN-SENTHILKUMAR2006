@@ -14,25 +14,31 @@ Backend & Full‑Stack Developer — Java · Spring Boot · MySQL · HTML/CSS/JS
 
 ## About
 
-I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are often developed as personal learning exercises and prototypes.
+I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are typically personal learning exercises and lightweight prototypes; some repositories use JSON file storage for quick testing and iteration.
 
 ## Core skills
 
-- Java & Spring Boot — backend development, REST APIs, dependency injection, and common Spring ecosystem tools.
-- MySQL — relational database design, queries, and basic optimization.
-- HTML, CSS, JavaScript — responsive UI, Bootstrap-based layouts, and client-side interactivity.
+- Java & Spring Boot — backend development, REST APIs, dependency injection, and the Spring ecosystem.
+- MySQL — schema design, queries, and basic optimization.
+- HTML, CSS, JavaScript — responsive UI, Bootstrap-based layouts, and client-side behavior.
 
 ## Also familiar with
 
-<small>Git · Bootstrap · Postman · PHP · Python · C</small>
+Git · Bootstrap · Postman · PHP · Python · C
 
+## Selected projects
+
+- Home-Inventory-Organizer — Lightweight PHP/JS inventory application using JSON files as table-like storage for easy testing and learning. https://github.com/ASWIN-SENTHILKUMAR2006/Home-Inventory-Organizer
+- Profile Config — Repository with configuration files for my GitHub profile. https://github.com/ASWIN-SENTHILKUMAR2006/ASWIN-SENTHILKUMAR2006
+
+If you'd like other repositories featured, tell me which ones and provide a one-line description for each.
 
 ## Contact
 
 - GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
-
-(If you want an email or LinkedIn link shown here, provide it and I will add it.)
+- Email: aswinsenthilkumarcse@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aswin-senthilkumar/
 
 ---
 
-> Personal projects for learning and experimentation. Production-readiness varies by project; please review individual repositories before reuse.
+> Personal projects for learning and experimentation. Production-readiness varies by project; review individual repositories before reuse.
