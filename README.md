@@ -1,18 +1,44 @@
-# 💫 About Me:
-Spring Boot Developer | Full-Stack Java Developer | Spring Boot, Hibernate, RESTful APIs, Docker
+# ASWIN-SENTHILKUMAR2006
 
+Backend & Full‑Stack Developer — Java · Spring Boot · MySQL · HTML/CSS/JS
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswinsenthilkumar2006/) 
+<!-- Core technology badges -->
+<p align="left">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ASWIN-SENTHILKUMAR2006&theme=dark&hide_border=false)<br/>
+## About
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are often developed as personal learning exercises and prototypes; some repositories use JSON file storage for lightweight testing and quick iteration.
 
+## Core skills
 
+- Java & Spring Boot — backend development, REST APIs, dependency injection, and common Spring ecosystem tools.
+- MySQL — relational database design, queries, and basic optimization.
+- HTML, CSS, JavaScript — responsive UI, Bootstrap-based layouts, and client-side interactivity.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Also familiar with
+
+<small>Git · Bootstrap · Postman · PHP · Python · C</small>
+
+## Selected projects
+
+- Home-Inventory-Organizer — Lightweight PHP/JS inventory application that uses JSON files as table-like storage for easy testing and learning. (https://github.com/ASWIN-SENTHILKUMAR2006/Home-Inventory-Organizer)
+- Profile Config — repository containing configuration and profile utilities. (https://github.com/ASWIN-SENTHILKUMAR2006/ASWIN-SENTHILKUMAR2006)
+
+If you would like me to feature other repositories here, tell me which ones and a one-line description for each.
+
+## Contact
+
+- GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
+
+(If you want an email or LinkedIn link shown here, provide it and I will add it.)
+
+---
+
+> Personal projects for learning and experimentation. Production-readiness varies by project; please review individual repositories before reuse.
