@@ -26,13 +26,6 @@ I build web applications focused on clean, maintainable server-side code and pra
 
 Git · Bootstrap · Postman · PHP · Python · C
 
-## Selected projects
-
-- Home-Inventory-Organizer — Lightweight PHP/JS inventory application using JSON files as table-like storage for easy testing and learning. https://github.com/ASWIN-SENTHILKUMAR2006/Home-Inventory-Organizer
-- Profile Config — Repository with configuration files for my GitHub profile. https://github.com/ASWIN-SENTHILKUMAR2006/ASWIN-SENTHILKUMAR2006
-
-If you'd like other repositories featured, tell me which ones and provide a one-line description for each.
-
 ## Contact
 
 - GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
