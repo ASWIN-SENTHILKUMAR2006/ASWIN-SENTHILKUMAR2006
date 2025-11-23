@@ -14,7 +14,7 @@ Backend & Full‑Stack Developer — Java · Spring Boot · MySQL · HTML/CSS/JS
 
 ## About
 
-I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are often developed as personal learning exercises and prototypes; some repositories use JSON file storage for lightweight testing and quick iteration.
+I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are often developed as personal learning exercises and prototypes.
 
 ## Core skills
 
@@ -26,12 +26,6 @@ I build web applications focused on clean, maintainable server-side code and pra
 
 <small>Git · Bootstrap · Postman · PHP · Python · C</small>
 
-## Selected projects
-
-- Home-Inventory-Organizer — Lightweight PHP/JS inventory application that uses JSON files as table-like storage for easy testing and learning. (https://github.com/ASWIN-SENTHILKUMAR2006/Home-Inventory-Organizer)
-- Profile Config — repository containing configuration and profile utilities. (https://github.com/ASWIN-SENTHILKUMAR2006/ASWIN-SENTHILKUMAR2006)
-
-If you would like me to feature other repositories here, tell me which ones and a one-line description for each.
 
 ## Contact
 
