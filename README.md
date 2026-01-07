@@ -18,7 +18,7 @@ I build web applications focused on clean, maintainable server-side code and pra
 
 ## Core skills
 
-- Java & Spring Boot — backend development, REST APIs, dependency injection, and the Spring ecosystem.
+- Java & Spring Boot — backend development, REST APIs, dependency injection, Spring Data JPA and the Spring ecosystem.
 - MySQL — schema design, queries, and basic optimization.
 - HTML, CSS, JavaScript — responsive UI, Bootstrap-based layouts, and client-side behavior.
 
