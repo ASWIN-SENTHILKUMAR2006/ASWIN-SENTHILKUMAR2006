@@ -21,10 +21,11 @@ I build web applications focused on clean, maintainable server-side code and pra
 - Java & Spring Boot — backend development, REST APIs, dependency injection, Spring Data JPA and the Spring ecosystem.
 - MySQL — schema design, queries, and basic optimization.
 - HTML, CSS, JavaScript — responsive UI, Bootstrap-based layouts, and client-side behavior.
+- Git and Github
 
 ## Also familiar with
 
-Git · Bootstrap · Postman · PHP · Python · C
+PHP · Python · C
 
 ## Contact
 
