@@ -24,9 +24,9 @@ I build web applications focused on clean, maintainable server-side code and pra
 - Git and Github
 
 ## Also familiar with
-
-PHP · Python · C
-
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 ## Contact
 
 - GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
