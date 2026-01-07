@@ -28,7 +28,8 @@ I build web applications focused on clean, maintainable server-side code and pra
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  </p>
+</p>
+
 ## Contact
 
 - GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
