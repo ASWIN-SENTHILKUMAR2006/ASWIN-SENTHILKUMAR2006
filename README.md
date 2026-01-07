@@ -14,7 +14,7 @@ Backend & Full‑Stack Developer — Java · Spring Boot · MySQL · HTML/CSS/JS
 
 ## About
 
-I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are typically personal learning exercises and lightweight prototypes; some repositories use JSON file storage for quick testing and iteration.
+I build web applications focused on clean, maintainable server-side code and pragmatic front-end interfaces. My primary stack is Java with Spring Boot on the backend, MySQL for persistent storage, and modern HTML/CSS/JavaScript for the frontend. Projects are typically personal learning exercises and lightweight prototypes.
 
 ## Core skills
 
