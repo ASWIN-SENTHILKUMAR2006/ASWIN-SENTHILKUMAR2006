@@ -1,4 +1,4 @@
-# ASWIN-SENTHILKUMAR2006
+# ASWIN-SENTHILKUMAR
 
 Backend & Full‑Stack Developer — Java · Spring Boot · MySQL · HTML/CSS/JS
 
