@@ -30,6 +30,18 @@ I build web applications focused on clean, maintainable server-side code and pra
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
+## 🌐 Live Projects
+
+- **ZionHR** – HR management platform  
+  🔗 https://www.zionhr.in  
+
+- **Poorvi Photography** – Portfolio website for photography services  
+  🔗 https://www.poorviphotography.in  
+
+- **Sree Amman Packers** – Business website for logistics and relocation services  
+  🔗 https://www.sreeammanpackers.shop  
+
+
 ## Contact
 
 - GitHub: https://github.com/ASWIN-SENTHILKUMAR2006
