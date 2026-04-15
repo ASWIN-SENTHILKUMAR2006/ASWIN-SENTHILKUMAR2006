@@ -39,8 +39,11 @@ I build web applications focused on clean, maintainable server-side code and pra
   🔗 https://www.poorviphotography.in  
 
 - **Sree Amman Packers** – Business website for logistics and relocation services  
-  🔗 https://www.sreeammanpackers.shop  
-
+  🔗 https://sreeammanpackers.shop/
+  
+Built for learning and fun, exploring productivity-focused ideas and real-world problem solving.
+- **Triospark Calendar** – https://calendar.triospark.in  
+- **FastReader** – https://fastreader.triospark.in  
 
 ## Contact
 
