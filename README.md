@@ -32,8 +32,8 @@ I build web applications focused on clean, maintainable server-side code and pra
 
 ## 🌐 Live Projects
 
-- **ZionHR** – HR management platform  
-  🔗 https://www.zionhr.in  
+- **candidate-view** – HR management platform  
+  🔗 under construction 🚧  
 
 - **Poorvi Photography** – Portfolio website for photography services  
   🔗 https://www.poorviphotography.in  
