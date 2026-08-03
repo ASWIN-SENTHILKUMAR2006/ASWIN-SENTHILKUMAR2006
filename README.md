@@ -42,8 +42,9 @@ I build web applications focused on clean, maintainable server-side code and pra
   🔗 https://sreeammanpackers.shop/
   
 Built for learning and fun, exploring productivity-focused ideas and real-world problem solving.
+- **Triospark landing Page** –https://www.triospark.in/ 
 - **Triospark Calendar** – https://calendar.triospark.in/ 
-- **FastReader** – https://fastreader.triospark.in  
+- **Triospark FastReader** – https://fastreader.triospark.in  
 
 ## Contact
 
