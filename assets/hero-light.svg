@@ -20,7 +20,7 @@
     @keyframes draw { to { stroke-dashoffset: 0; } }
     @keyframes blink { 50% { opacity: 0; } }
   </style>
-  <text class="name" x="2" y="50">ASWIN SENTHILKUMAR</text>
-  <line class="rule" x1="3" y1="72" x2="123" y2="72" />
-  <text class="sub" x="2" y="106">Java Full Stack Developer<tspan class="accent"> · </tspan>Spring Boot<tspan class="accent"> · </tspan>MySQL<tspan class="caret">_</tspan></text>
+  <text class="name" x="323" y="50" text-anchor="middle">ASWIN SENTHILKUMAR</text>
+  <line class="rule" x1="260" y1="72" x2="380" y2="72" />
+  <text class="sub" x="321" y="106" text-anchor="middle">Java Full Stack Developer<tspan class="accent"> · </tspan>Spring Boot<tspan class="accent"> · </tspan>MySQL<tspan class="caret">_</tspan></text>
 </svg>
