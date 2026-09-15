@@ -120,7 +120,7 @@ Open to **backend / full stack** roles where the code reaches real users.
 | :--- | :--- | :--- |
 | **Poorvi Photography** | Portfolio site for a photography services client | [poorviphotography.in](https://www.poorviphotography.in) |
 | **Sree Amman Packers** | Business site for a logistics & relocation client | [sreeammanpackers.shop](https://sreeammanpackers.shop/) |
-| **HR Management Platform** | Full HR management web platform built for a client | [candidateview.triospark.in ](https://candidateview.triospark.in/)  |
+| **HR Management Platform** | Full HR management web platform built for a client | [candidateview.triospark.in](https://candidateview.triospark.in/)  |
 | **MKCE Official Website** | Official college website, built with a team of four | [mkce.ac.in](https://www.mkce.ac.in/) |
 | **TrioSpark** | Team landing page | [triospark.in](https://www.triospark.in/) |
 | **TrioSpark Calendar** | Scheduling utility | [calendar.triospark.in](https://calendar.triospark.in/) |
