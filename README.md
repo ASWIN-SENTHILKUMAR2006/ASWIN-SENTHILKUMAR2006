@@ -19,6 +19,21 @@
 
 ---
 
+## 🌐 Live Work
+
+| Project | What it is | Link |
+| :--- | :--- | :--- |
+| **Poorvi Photography** | Portfolio site for a photography services client | [poorviphotography.in](https://www.poorviphotography.in) |
+| **Sree Amman Packers** | Business site for a logistics & relocation client | [sreeammanpackers.shop](https://sreeammanpackers.shop/) |
+| **HR Management Platform** | Full HR management web platform built for a client | [candidateview.triospark.in](https://candidateview.triospark.in/)  |
+| **MKCE Official Website** | Official college website, built with a team of four | [mkce.ac.in](https://www.mkce.ac.in/) |
+| **TrioSpark** | Team landing page | [triospark.in](https://www.triospark.in/) |
+| **TrioSpark Calendar** | Scheduling utility | [calendar.triospark.in](https://calendar.triospark.in/) |
+| **TrioSpark FastReader** | Speed-reading utility | [fastreader.triospark.in](https://fastreader.triospark.in) |
+| **Portfolio** | My personal site | [aswinsenthilkumar.triospark.in](https://aswinsenthilkumar.triospark.in/) |
+
+---
+
 ## About
 
 Final-year B.E. Computer Science student (CGPA 8.5) building production Java backends with **Spring Boot, REST APIs and MySQL**.
@@ -114,20 +129,7 @@ Open to **backend / full stack** roles where the code reaches real users.
 
 ---
 
-## 🌐 Live Work
 
-| Project | What it is | Link |
-| :--- | :--- | :--- |
-| **Poorvi Photography** | Portfolio site for a photography services client | [poorviphotography.in](https://www.poorviphotography.in) |
-| **Sree Amman Packers** | Business site for a logistics & relocation client | [sreeammanpackers.shop](https://sreeammanpackers.shop/) |
-| **HR Management Platform** | Full HR management web platform built for a client | [candidateview.triospark.in](https://candidateview.triospark.in/)  |
-| **MKCE Official Website** | Official college website, built with a team of four | [mkce.ac.in](https://www.mkce.ac.in/) |
-| **TrioSpark** | Team landing page | [triospark.in](https://www.triospark.in/) |
-| **TrioSpark Calendar** | Scheduling utility | [calendar.triospark.in](https://calendar.triospark.in/) |
-| **TrioSpark FastReader** | Speed-reading utility | [fastreader.triospark.in](https://fastreader.triospark.in) |
-| **Portfolio** | My personal site | [aswinsenthilkumar.triospark.in](https://aswinsenthilkumar.triospark.in/) |
-
----
 
 ## 🛠️ Featured Projects
 
